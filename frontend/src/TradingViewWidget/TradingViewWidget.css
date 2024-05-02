@@ -1,0 +1,8 @@
+.tradingview-widget-container{
+    width: 50%;
+    height: 75%;
+    backgroundColor: '#f0f0f0';
+    display: flex;
+    justifyContent: 'center';
+    alignItems: 'center';
+}

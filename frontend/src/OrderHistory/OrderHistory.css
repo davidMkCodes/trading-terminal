@@ -1,0 +1,29 @@
+.order-history-container {
+    margin-left: 20px;
+}
+
+.order-history-sub-container {
+    display: flex;
+    align-items: center;
+}
+
+.order-history-title {
+    margin-right: 20px; /* Add margin to the right of the title */
+}
+
+.order-history-table-container {
+    max-height: 300px; /* Set the maximum height */
+    overflow-y: scroll; /* Enable vertical scrolling */
+}
+
+.order-history-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cell {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+

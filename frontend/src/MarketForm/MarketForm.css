@@ -1,0 +1,28 @@
+.open-orders-container {
+    margin-top: 20px;
+}
+
+.open-orders-sub-container {
+    display: flex;
+}
+
+.open-orders-title {
+    margin-right: 20px;
+}
+
+.open-orders-table-container {
+    max-height: 450px;
+    overflow-y: scroll;
+    margin-top: 20px;
+}
+
+.open-orders-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cell {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
